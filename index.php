@@ -10,7 +10,7 @@
 		</div>
 		<div class="paragraph">
 			<p>
-				ICBS provides a harmonious environment and learning opportunities  to its students regardless of their gender, socioeconomic background, religious beliefs and regional differences.
+				Chandigarh University provides a harmonious environment and learning opportunities  to its students regardless of their gender, socioeconomic background, religious beliefs and regional differences.
 			</p>
 		</div>
 	<?php include('common/cards.php') ?>
