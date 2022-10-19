@@ -41,5 +41,5 @@
       </div>
     </div>
     </div>
-  <p class="footer-bottom-text">CopyRights © reserved by Raza Programming and Code Academia.2020</p>
+  <p class="footer-bottom-text">CopyRights © reserved by Anirban Chandra 2022</p>
 </footer>
