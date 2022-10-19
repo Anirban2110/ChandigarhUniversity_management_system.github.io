@@ -3,17 +3,16 @@
     <div class="container">
         <div class="row">
           <div class="col-md-3 col-sm-6 col-xs-12 segment-one md-mb-30 sm-mb-30">
-            <h3>Imperial College</h3>
-            <p>This Project has been made by Muhammad Husnain Raza with the help of 
-              my Allah Almighty.
-              The prupose of this project is Learning Computer Languages.
-              I hope you realy enjoyed to visit this project. Thanks!
+            <h3>Chandigarh University</h3>
+            <p>This Project has been made by Anirban Chandra.
+              The prupose of this project is Technical task round of XenonStack.
+              I hope this project will satisfy you. Thanks!
             </p>
           </div>
           <div class="col-md-2 col-sm-6 col-xs-12 segment-two md-mb-30 sm-mb-30">
             <h2>Quick Links</h2>
             <ul>
-              <li><a href="">About ICBS</a></li>
+              <li><a href="">About Chandigarh University</a></li>
               <li><a href="">Admissions Policy</a></li>
               <li><a href="">Apply for Admission</a></li>
               <li><a href="">Download Prospectus</a></li>
@@ -33,10 +32,9 @@
           </div>  
           <div class="col-md-3 col-sm-6 col-xs-12 segment-two md-mb-30 sm-mb-30">
             <h2>CONTACT DETAILS</h2>
-              <p>Address: Imperial College of Business Studies,
-                  Bahria Town, Shahkam Chowk, Canal Bank Road,53720 Lahore – Pakistan</p>
-              <p>Telephones: (+92 42) 35978525-32</p>
-              <p>E-mail: admissions@imperial.edu.pk</p>
+              <p>Address: NH05, Chandigarh-Ludhiana Highway, Gharuan, Mohali, Punjab, India</p>
+              <p>Telephones: 7044630781</p>
+              <p>E-mail: admissions@cuchd.in</p>
         </div>
       </div>
     </div>
